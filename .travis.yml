@@ -17,7 +17,7 @@ deoply:
   region: "us-east-1"
   app: "docker-react-app"
   env: "Dockerreactapp-env"
-  bucket_name: ""
+  bucket_name: "elasticbeanstalk-us-east-1-969742923486"
   bucket_path: "docker-react-app"
   on:
     branch: master
